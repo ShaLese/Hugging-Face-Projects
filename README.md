@@ -21,7 +21,7 @@ This project implements a custom ResNet model for image classification using PyT
 
 ## Live Demo
 
-Try the live demo at: [Streamlit Cloud App](https://image-classification-resnet.streamlit.app)
+Try the live demo at: [Streamlit Cloud App](https://resnet-image-classifier.streamlit.app/)
 
 ## Project Structure
 
