@@ -133,7 +133,7 @@ def main():
     if image is not None:
         try:
             # Display image
-            st.image(image, caption='Input Image', use_column_width=True)
+            st.image(image, caption='Input Image', use_container_width=True)
             
             # Make prediction
             start_time = time.time()
